@@ -1,0 +1,27 @@
+body {
+    padding: 2rem 0;
+
+    #league-title,
+    h4 {
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+    select {
+        text-transform: capitalize;
+        margin: auto;
+        width: 300px !important;
+
+        option {
+            text-transform: capitalize;
+        }
+    }
+
+    table {
+        text-align: center;
+
+        th {
+            text-transform: capitalize;
+        }
+    }
+}
